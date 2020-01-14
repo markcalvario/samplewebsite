@@ -1,1 +1,59 @@
+img{
+	height:300px;
+}
+h1{
+	color: #62A8E5;
+	font-size:50px;
+}
+.pandulce{
+	height:200px;
 
+}
+.text-center{
+	text-align:center;
+}
+.first-paragraph{
+	font-size: 25px;
+}
+
+.blue-text{
+	color: blue;
+}
+
+#this-header{
+	font-size: 50px;
+}
+.mark{
+	margin: 100px;
+	
+}
+
+.font-InriaSerif{
+	font-family: 'Inria Serif', serif;
+}
+.font-OpenSansCondensed{
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+.container-background{
+	background-color: #F2E9E4 ;
+}
+
+
+
+
+.pantone292{
+	background-color: #62A8E5
+}
+.lightgray{
+	background-color: #CCCDD0;
+}
+
+
+.rosemadder{
+	background-color:#E71D36;
+
+}
+
+.tomato{
+	background-color:#F06543;
+}

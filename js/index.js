@@ -4,4 +4,5 @@ function changeColor(){
 
 	d1.className= "rosemadder"
 	d2.className= "tomato"
+
 }
